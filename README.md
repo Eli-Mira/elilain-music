@@ -1,5 +1,7 @@
 # EliLain-Music
 
+[![License: Prosperity 3.0](https://img.shields.io/badge/License-Prosperity%203.0-blue.svg)](LICENSE)
+
 **Local. Free. Yours.**
 
 A music downloader with a native **PySide6 + QML / Qt Quick** Lain-themed desktop
@@ -211,6 +213,8 @@ only its public metadata is read, and the audio comes from a different source.
 
 ## License
 
-Code: MIT. User-supplied Lain artwork remains © its respective rights holders
-and is **not** covered by the code license. Author credits and redistribution
-permissions have not been verified; see `elilain_music/assets/CREDITS.md`.
+Code: [Prosperity Public License 3.0](LICENSE) — free for noncommercial use,
+with a thirty-day trial for commercial use. User-supplied Lain artwork remains
+© its respective rights holders and is **not** covered by the code license.
+Author credits and redistribution permissions have not been verified; see
+`elilain_music/assets/CREDITS.md`.

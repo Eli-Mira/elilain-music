@@ -54,4 +54,4 @@ bridge rejects success with no nonempty file, but that alone does not establish
 file provenance. See the earlier engine audit and Obsidian session history.
 
 Artwork copyrights/redistribution permissions are unverified and separate
-from the MIT code license. No deployment or publication was performed.
+from the Prosperity code license. No deployment or publication was performed.
