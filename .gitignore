@@ -55,3 +55,8 @@ desktop.ini
 # Logs
 *.log
 npm-debug.log*
+*.pyc
+secrets.*
+*.pem
+*.key
+node_modules/
